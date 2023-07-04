@@ -1,0 +1,35 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background-color: #232324;
+}
+
+* {
+	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+}
+
+button {
+	background-color: rgba(83, 115, 142, 1);
+	border: none;
+	border-radius: 25px;
+	transition: all 0.3s ease 0s;
+	cursor: pointer;
+	font-size: large;
+	padding: 10px 20px;
+}
+button:hover {
+	background-color: rgba(0, 136, 169, 0.5);
+}
