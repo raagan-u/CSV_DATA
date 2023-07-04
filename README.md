@@ -6,3 +6,8 @@ A simple react app to upload a csv file that contains data to be inserted into D
 
 NOTE:
 MODIFY SQL DB DETAILS IN THE API FOR PROPER FUNCTIONING
+
+PYTHON API DEPENDENCIES:
+1.mysql 
+2.fastapi
+3. uvicorn
